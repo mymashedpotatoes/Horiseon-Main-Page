@@ -1,3 +1,8 @@
+Horiseon Main Page
+
+This is the main page for horiseon so possible clients can see what they do and how they can help.
+
+
 Why did you do this project?:
 
 I did this project to help the website meet accessibility standards and to optimize their code to be more condensed and readable.
