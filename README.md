@@ -21,6 +21,11 @@ This is a link to the webpage!
 https://mymashedpotatoes.github.io/homework-1/
 
 And here are some screenshots:
-![Picture 1](<assets/images/Screenshot 2023-11-15 160005.png>)
-![Picture 2](<assets/images/Screenshot 2023-11-15 160011.png>)
-![Picture 3](<assets/images/Screenshot 2023-11-15 160016.png>)
+![Picture 1]
+![horiseon 1](https://github.com/mymashedpotatoes/Horiseon-Main-Page/assets/145066673/ec72fb5e-108b-4d95-b8c8-d0c895b20899)
+
+![Picture 2]
+![horiseon 2](https://github.com/mymashedpotatoes/Horiseon-Main-Page/assets/145066673/67833812-bdfc-45b3-9a8a-8befda405208)
+
+![Picture 3]
+![horiseon 3](https://github.com/mymashedpotatoes/Horiseon-Main-Page/assets/145066673/16383333-787b-492a-b245-ae136af50e15)
